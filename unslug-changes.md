@@ -1,4 +1,4 @@
-## ar
+SPLITME## ar
 
 * Total of 269 documents.
 * Moved 58 document.
@@ -71,7 +71,7 @@
 * [/ar/docs/Web/حماية](https://developer.mozilla.org/ar/docs/Web/حماية) → [/ar/docs/Web/Security](https://unslugged.content.dev.mdn.mozit.cloud/ar/docs/Web/Security)
 * [/ar/docs/Web/مرجع.](https://developer.mozilla.org/ar/docs/Web/مرجع.) → [/ar/docs/Web/Reference](https://unslugged.content.dev.mdn.mozit.cloud/ar/docs/Web/Reference)
 
-## bg
+SPLITME## bg
 
 * Total of 76 documents.
 * Moved 22 document.
@@ -109,7 +109,7 @@
 * [/bg/docs/Речник/Server](https://developer.mozilla.org/bg/docs/Речник/Server) → [/bg/docs/Glossary/Server](https://unslugged.content.dev.mdn.mozit.cloud/bg/docs/Glossary/Server)
 * [/bg/docs/Речник/World_Wide_Web](https://developer.mozilla.org/bg/docs/Речник/World_Wide_Web) → [/bg/docs/Glossary/World_Wide_Web](https://unslugged.content.dev.mdn.mozit.cloud/bg/docs/Glossary/World_Wide_Web)
 
-## bn
+SPLITME## bn
 
 * Total of 124 documents.
 * Moved 33 document.
@@ -157,7 +157,7 @@
 * [/bn/docs/Web/HTML/Focus_management_in_HTML](https://developer.mozilla.org/bn/docs/Web/HTML/Focus_management_in_HTML) → [/bn/docs/Web/API/Document/hasFocus](https://unslugged.content.dev.mdn.mozit.cloud/bn/docs/Web/API/Document/hasFocus)
 * [/bn/docs/Web/JavaScript/ভাষার_রিসোর্স](https://developer.mozilla.org/bn/docs/Web/JavaScript/ভাষার_রিসোর্স) → [/bn/docs/Web/JavaScript/Language_Resources](https://unslugged.content.dev.mdn.mozit.cloud/bn/docs/Web/JavaScript/Language_Resources)
 
-## ca
+SPLITME## ca
 
 * Total of 766 documents.
 * Moved 397 document.
@@ -569,7 +569,7 @@
 * [/ca/docs/Web/JavaScript/Referencia/Sentencies/while](https://developer.mozilla.org/ca/docs/Web/JavaScript/Referencia/Sentencies/while) → [/ca/docs/Web/JavaScript/Reference/Statements/while](https://unslugged.content.dev.mdn.mozit.cloud/ca/docs/Web/JavaScript/Reference/Statements/while)
 * [/ca/docs/Web/JavaScript/Referencia/Sobre](https://developer.mozilla.org/ca/docs/Web/JavaScript/Referencia/Sobre) → [/ca/docs/Web/JavaScript/Reference/About](https://unslugged.content.dev.mdn.mozit.cloud/ca/docs/Web/JavaScript/Reference/About)
 
-## de
+SPLITME## de
 
 * Total of 1911 documents.
 * Moved 403 document.
@@ -987,7 +987,7 @@
 * [/de/docs/WebSockets](https://developer.mozilla.org/de/docs/WebSockets) → [/de/docs/Web/API/WebSockets_API](https://unslugged.content.dev.mdn.mozit.cloud/de/docs/Web/API/WebSockets_API)
 * [/de/docs/WebSockets/Writing_WebSocket_servers](https://developer.mozilla.org/de/docs/WebSockets/Writing_WebSocket_servers) → [/de/docs/Web/API/WebSockets_API/Writing_WebSocket_servers](https://unslugged.content.dev.mdn.mozit.cloud/de/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
 
-## el
+SPLITME## el
 
 * Total of 54 documents.
 * Moved 13 document.
@@ -1016,7 +1016,7 @@
 * [/el/docs/Εργαλεία/about:debugging](https://developer.mozilla.org/el/docs/Εργαλεία/about:debugging) → [/el/docs/Tools/about:debugging](https://unslugged.content.dev.mdn.mozit.cloud/el/docs/Tools/about:debugging)
 * [/el/docs/Εργαλεία](https://developer.mozilla.org/el/docs/Εργαλεία) → [/el/docs/Tools](https://unslugged.content.dev.mdn.mozit.cloud/el/docs/Tools)
 
-## es
+SPLITME## es
 
 * Total of 2867 documents.
 * Moved 1272 document.
@@ -2303,7 +2303,7 @@
 * [/es/docs/XHTML](https://developer.mozilla.org/es/docs/XHTML) → [/es/docs/Glossary/XHTML](https://unslugged.content.dev.mdn.mozit.cloud/es/docs/Glossary/XHTML)
 * [/es/docs/Zoom_a_página_completa](https://developer.mozilla.org/es/docs/Zoom_a_página_completa) → [/es/docs/Mozilla/Firefox/Releases/3/Full_page_zoom](https://unslugged.content.dev.mdn.mozit.cloud/es/docs/Mozilla/Firefox/Releases/3/Full_page_zoom)
 
-## fa
+SPLITME## fa
 
 * Total of 148 documents.
 * Moved 30 document.
@@ -2348,7 +2348,7 @@
 * [/fa/docs/Web/JavaScript/راهنما](https://developer.mozilla.org/fa/docs/Web/JavaScript/راهنما) → [/fa/docs/Web/JavaScript/Guide](https://unslugged.content.dev.mdn.mozit.cloud/fa/docs/Web/JavaScript/Guide)
 * [/fa/docs/Web/JavaScript/راهنما/مقدمه](https://developer.mozilla.org/fa/docs/Web/JavaScript/راهنما/مقدمه) → [/fa/docs/Web/JavaScript/Guide/Introduction](https://unslugged.content.dev.mdn.mozit.cloud/fa/docs/Web/JavaScript/Guide/Introduction)
 
-## fi
+SPLITME## fi
 
 * Total of 54 documents.
 * Moved 30 document.
@@ -2393,7 +2393,7 @@
 * [/fi/docs/HTML/Canvas](https://developer.mozilla.org/fi/docs/HTML/Canvas) → [/fi/docs/Web/API/Canvas_API](https://unslugged.content.dev.mdn.mozit.cloud/fi/docs/Web/API/Canvas_API)
 * [/fi/docs/Learn/JavaScript/Ensimmaiset_askeleet](https://developer.mozilla.org/fi/docs/Learn/JavaScript/Ensimmaiset_askeleet) → [/fi/docs/Learn/JavaScript/First_steps](https://unslugged.content.dev.mdn.mozit.cloud/fi/docs/Learn/JavaScript/First_steps)
 
-## fr
+SPLITME## fr
 
 * Total of 5733 documents.
 * Moved 2488 document.
@@ -4896,7 +4896,7 @@
 * [/fr/docs/XSLT_dans_Gecko/Génération_de_HTML](https://developer.mozilla.org/fr/docs/XSLT_dans_Gecko/Génération_de_HTML) → [/fr/docs/Web/API/XSLTProcessor/Generating_HTML](https://unslugged.content.dev.mdn.mozit.cloud/fr/docs/Web/API/XSLTProcessor/Generating_HTML)
 * [/fr/docs/Zoom_pleine_page](https://developer.mozilla.org/fr/docs/Zoom_pleine_page) → [/fr/docs/Mozilla/Firefox/Releases/3/Full_page_zoom](https://unslugged.content.dev.mdn.mozit.cloud/fr/docs/Mozilla/Firefox/Releases/3/Full_page_zoom)
 
-## he
+SPLITME## he
 
 * Total of 171 documents.
 * Moved 17 document.
@@ -4928,7 +4928,7 @@
 * [/he/docs/Mozilla/Add-ons/WebExtensions/טיפום](https://developer.mozilla.org/he/docs/Mozilla/Add-ons/WebExtensions/טיפום) → [/he/docs/Mozilla/Add-ons/WebExtensions/Tips](https://unslugged.content.dev.mdn.mozit.cloud/he/docs/Mozilla/Add-ons/WebExtensions/Tips)
 * [/he/docs/Web/API/Geolocation/ממשק_שירותי_מיקום](https://developer.mozilla.org/he/docs/Web/API/Geolocation/ממשק_שירותי_מיקום) → [/he/docs/Web/API/Geolocation_API](https://unslugged.content.dev.mdn.mozit.cloud/he/docs/Web/API/Geolocation_API)
 
-## hi-in
+SPLITME## hi-in
 
 * Total of 28 documents.
 * Moved 8 document.
@@ -4952,7 +4952,7 @@
 * [/hi-in/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता](https://developer.mozilla.org/hi-in/docs/Web/JavaScript/Reference/Operators/ऑपरेटर_प्राथमिकता) → [/hi-in/docs/Web/JavaScript/Reference/Operators/Operator_Precedence](https://unslugged.content.dev.mdn.mozit.cloud/hi-in/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 * [/hi-in/docs/Web/JavaScript/टाईप्ड_सरणियाँ](https://developer.mozilla.org/hi-in/docs/Web/JavaScript/टाईप्ड_सरणियाँ) → [/hi-in/docs/Web/JavaScript/Typed_arrays](https://unslugged.content.dev.mdn.mozit.cloud/hi-in/docs/Web/JavaScript/Typed_arrays)
 
-## hu
+SPLITME## hu
 
 * Total of 79 documents.
 * Moved 23 document.
@@ -4991,7 +4991,7 @@
 * [/hu/docs/Web/JavaScript/Reference/Global_Objects/Függvény](https://developer.mozilla.org/hu/docs/Web/JavaScript/Reference/Global_Objects/Függvény) → [/hu/docs/Web/JavaScript/Reference/Global_Objects/Function](https://unslugged.content.dev.mdn.mozit.cloud/hu/docs/Web/JavaScript/Reference/Global_Objects/Function)
 * [/hu/docs/WebSockets](https://developer.mozilla.org/hu/docs/WebSockets) → [/hu/docs/Web/API/WebSockets_API](https://unslugged.content.dev.mdn.mozit.cloud/hu/docs/Web/API/WebSockets_API)
 
-## id
+SPLITME## id
 
 * Total of 304 documents.
 * Moved 54 document.
@@ -5060,7 +5060,7 @@
 * [/id/docs/Web/JavaScript/Reference/Statements/fungsi](https://developer.mozilla.org/id/docs/Web/JavaScript/Reference/Statements/fungsi) → [/id/docs/Web/JavaScript/Reference/Statements/function](https://unslugged.content.dev.mdn.mozit.cloud/id/docs/Web/JavaScript/Reference/Statements/function)
 * [/id/docs/Web/JavaScript/sekilas_teknologi_JavaScript](https://developer.mozilla.org/id/docs/Web/JavaScript/sekilas_teknologi_JavaScript) → [/id/docs/Web/JavaScript/JavaScript_technologies_overview](https://unslugged.content.dev.mdn.mozit.cloud/id/docs/Web/JavaScript/JavaScript_technologies_overview)
 
-## it
+SPLITME## it
 
 * Total of 812 documents.
 * Moved 184 document.
@@ -5259,7 +5259,7 @@
 * [/it/docs/window.find](https://developer.mozilla.org/it/docs/window.find) → [/it/docs/Web/API/Window/find](https://unslugged.content.dev.mdn.mozit.cloud/it/docs/Web/API/Window/find)
 * [/it/docs/XHTML](https://developer.mozilla.org/it/docs/XHTML) → [/it/docs/Glossary/XHTML](https://unslugged.content.dev.mdn.mozit.cloud/it/docs/Glossary/XHTML)
 
-## ja
+SPLITME## ja
 
 * Total of 6669 documents.
 * Moved 695 document.
@@ -5969,7 +5969,7 @@
 * [/ja/docs/XMLSerializer](https://developer.mozilla.org/ja/docs/XMLSerializer) → [/ja/docs/Web/API/XMLSerializer](https://unslugged.content.dev.mdn.mozit.cloud/ja/docs/Web/API/XMLSerializer)
 * [/ja/docs/XPInstall_API_Reference/InstallTrigger_Object](https://developer.mozilla.org/ja/docs/XPInstall_API_Reference/InstallTrigger_Object) → [/ja/docs/Web/API/InstallTrigger](https://unslugged.content.dev.mdn.mozit.cloud/ja/docs/Web/API/InstallTrigger)
 
-## kab
+SPLITME## kab
 
 * Total of 61 documents.
 * Moved 13 document.
@@ -5998,7 +5998,7 @@
 * [/kab/docs/Web/JavaScript/Amnir](https://developer.mozilla.org/kab/docs/Web/JavaScript/Amnir) → [/kab/docs/Web/JavaScript/Guide](https://unslugged.content.dev.mdn.mozit.cloud/kab/docs/Web/JavaScript/Guide)
 * [/kab/docs/Web/Tuffart](https://developer.mozilla.org/kab/docs/Web/Tuffart) → [/kab/docs/Web/Accessibility](https://unslugged.content.dev.mdn.mozit.cloud/kab/docs/Web/Accessibility)
 
-## ko
+SPLITME## ko
 
 * Total of 2475 documents.
 * Moved 359 document.
@@ -6372,7 +6372,7 @@
 * [/ko/docs/XSLT_in_Gecko/Resources](https://developer.mozilla.org/ko/docs/XSLT_in_Gecko/Resources) → [/ko/docs/Web/API/XSLTProcessor/Resources](https://unslugged.content.dev.mdn.mozit.cloud/ko/docs/Web/API/XSLTProcessor/Resources)
 * [/ko/docs/개발자를_위한_Firefox_3.6](https://developer.mozilla.org/ko/docs/개발자를_위한_Firefox_3.6) → [/ko/docs/Mozilla/Firefox/Releases/3.6](https://unslugged.content.dev.mdn.mozit.cloud/ko/docs/Mozilla/Firefox/Releases/3.6)
 
-## ms
+SPLITME## ms
 
 * Total of 30 documents.
 * Moved 14 document.
@@ -6402,7 +6402,7 @@
 * [/ms/docs/Learn/Soalan_lazim](https://developer.mozilla.org/ms/docs/Learn/Soalan_lazim) → [/ms/docs/Learn/Common_questions](https://unslugged.content.dev.mdn.mozit.cloud/ms/docs/Learn/Common_questions)
 * [/ms/docs/Web_Development](https://developer.mozilla.org/ms/docs/Web_Development) → [/ms/docs/Web/Guide](https://unslugged.content.dev.mdn.mozit.cloud/ms/docs/Web/Guide)
 
-## my
+SPLITME## my
 
 * Total of 21 documents.
 * Moved 3 document.
@@ -6422,7 +6422,7 @@
 * [/my/docs/Learn/HTML/Forms](https://developer.mozilla.org/my/docs/Learn/HTML/Forms) → [/my/docs/Learn/Forms](https://unslugged.content.dev.mdn.mozit.cloud/my/docs/Learn/Forms)
 * [/my/docs/Learn/HTML/Forms/Your_first_form](https://developer.mozilla.org/my/docs/Learn/HTML/Forms/Your_first_form) → [/my/docs/Learn/Forms/Your_first_form](https://unslugged.content.dev.mdn.mozit.cloud/my/docs/Learn/Forms/Your_first_form)
 
-## nl
+SPLITME## nl
 
 * Total of 286 documents.
 * Moved 73 document.
@@ -6510,7 +6510,7 @@
 * [/nl/docs/Web/JavaScript/Reference/Operatoren/typeof](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Operatoren/typeof) → [/nl/docs/Web/JavaScript/Reference/Operators/typeof](https://unslugged.content.dev.mdn.mozit.cloud/nl/docs/Web/JavaScript/Reference/Operators/typeof)
 * [/nl/docs/Web/SVG/Tutorial/Basis_Transformaties](https://developer.mozilla.org/nl/docs/Web/SVG/Tutorial/Basis_Transformaties) → [/nl/docs/Web/SVG/Tutorial/Basic_Transformations](https://unslugged.content.dev.mdn.mozit.cloud/nl/docs/Web/SVG/Tutorial/Basic_Transformations)
 
-## pl
+SPLITME## pl
 
 * Total of 1290 documents.
 * Moved 748 document.
@@ -7273,7 +7273,7 @@
 * [/pl/docs/XMLHttpRequest](https://developer.mozilla.org/pl/docs/XMLHttpRequest) → [/pl/docs/Web/API/XMLHttpRequest](https://unslugged.content.dev.mdn.mozit.cloud/pl/docs/Web/API/XMLHttpRequest)
 * [/pl/docs/XMLHttpRequest/Using_XMLHttpRequest](https://developer.mozilla.org/pl/docs/XMLHttpRequest/Using_XMLHttpRequest) → [/pl/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest](https://unslugged.content.dev.mdn.mozit.cloud/pl/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
 
-## pt-br
+SPLITME## pt-br
 
 * Total of 2243 documents.
 * Moved 592 document.
@@ -7880,7 +7880,7 @@
 * [/pt-br/docs/WebSockets/Writing_WebSocket_servers](https://developer.mozilla.org/pt-br/docs/WebSockets/Writing_WebSocket_servers) → [/pt-br/docs/Web/API/WebSockets_API/Writing_WebSocket_servers](https://unslugged.content.dev.mdn.mozit.cloud/pt-br/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
 * [/pt-br/docs/XHTML](https://developer.mozilla.org/pt-br/docs/XHTML) → [/pt-br/docs/Glossary/XHTML](https://unslugged.content.dev.mdn.mozit.cloud/pt-br/docs/Glossary/XHTML)
 
-## pt-pt
+SPLITME## pt-pt
 
 * Total of 731 documents.
 * Moved 438 document.
@@ -8333,7 +8333,7 @@
 * [/pt-pt/docs/WebAssembly/Utilizar_API_JavaScript_WebAssembly](https://developer.mozilla.org/pt-pt/docs/WebAssembly/Utilizar_API_JavaScript_WebAssembly) → [/pt-pt/docs/WebAssembly/Using_the_JavaScript_API](https://unslugged.content.dev.mdn.mozit.cloud/pt-pt/docs/WebAssembly/Using_the_JavaScript_API)
 * [/pt-pt/docs/XHTML](https://developer.mozilla.org/pt-pt/docs/XHTML) → [/pt-pt/docs/Glossary/XHTML](https://unslugged.content.dev.mdn.mozit.cloud/pt-pt/docs/Glossary/XHTML)
 
-## ru
+SPLITME## ru
 
 * Total of 3148 documents.
 * Moved 721 document.
@@ -9069,7 +9069,7 @@
 * [/ru/docs/Словарь/хеш](https://developer.mozilla.org/ru/docs/Словарь/хеш) → [/ru/docs/Glossary/hash](https://unslugged.content.dev.mdn.mozit.cloud/ru/docs/Glossary/hash)
 * [/ru/docs/Словарь/Элемент](https://developer.mozilla.org/ru/docs/Словарь/Элемент) → [/ru/docs/Glossary/Element](https://unslugged.content.dev.mdn.mozit.cloud/ru/docs/Glossary/Element)
 
-## sv-se
+SPLITME## sv-se
 
 * Total of 42 documents.
 * Moved 10 document.
@@ -9094,7 +9094,7 @@
 * [/sv-se/docs/Web/HTML/Global_attributes/Kortplats](https://developer.mozilla.org/sv-se/docs/Web/HTML/Global_attributes/Kortplats) → [/sv-se/docs/Web/HTML/Global_attributes/slot](https://unslugged.content.dev.mdn.mozit.cloud/sv-se/docs/Web/HTML/Global_attributes/slot)
 * [/sv-se/docs/Web/Security/Osäkra_lösenord](https://developer.mozilla.org/sv-se/docs/Web/Security/Osäkra_lösenord) → [/sv-se/docs/Web/Security/Insecure_passwords](https://unslugged.content.dev.mdn.mozit.cloud/sv-se/docs/Web/Security/Insecure_passwords)
 
-## th
+SPLITME## th
 
 * Total of 62 documents.
 * Moved 8 document.
@@ -9118,7 +9118,7 @@
 * [/th/docs/Mozilla/Firefox/เปิดผนึก](https://developer.mozilla.org/th/docs/Mozilla/Firefox/เปิดผนึก) → [/th/docs/Mozilla/Firefox/Releases](https://unslugged.content.dev.mdn.mozit.cloud/th/docs/Mozilla/Firefox/Releases)
 * [/th/docs/Tools/Debugger/www.หนังโป้.com](https://developer.mozilla.org/th/docs/Tools/Debugger/www.หนังโป้.com) → [/th/docs/Tools/Debugger/UI_Tour](https://unslugged.content.dev.mdn.mozit.cloud/th/docs/Tools/Debugger/UI_Tour)
 
-## tr
+SPLITME## tr
 
 * Total of 345 documents.
 * Moved 134 document.
@@ -9267,7 +9267,7 @@
 * [/tr/docs/Web/JavaScript/Reference/Operatörler/typeof](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Operatörler/typeof) → [/tr/docs/Web/JavaScript/Reference/Operators/typeof](https://unslugged.content.dev.mdn.mozit.cloud/tr/docs/Web/JavaScript/Reference/Operators/typeof)
 * [/tr/docs/Web/JavaScript/Veri_Yapısı](https://developer.mozilla.org/tr/docs/Web/JavaScript/Veri_Yapısı) → [/tr/docs/Web/JavaScript/Data_structures](https://unslugged.content.dev.mdn.mozit.cloud/tr/docs/Web/JavaScript/Data_structures)
 
-## uk
+SPLITME## uk
 
 * Total of 939 documents.
 * Moved 186 document.
@@ -9468,7 +9468,7 @@
 * [/uk/docs/Інструменти/Web_Console/Opening_the_Web_Console](https://developer.mozilla.org/uk/docs/Інструменти/Web_Console/Opening_the_Web_Console) → [/uk/docs/Tools/Web_Console/UI_Tour](https://unslugged.content.dev.mdn.mozit.cloud/uk/docs/Tools/Web_Console/UI_Tour)
 * [/uk/docs/Інструменти/Web_Console/Split_console](https://developer.mozilla.org/uk/docs/Інструменти/Web_Console/Split_console) → [/uk/docs/Tools/Web_Console/Split_console](https://unslugged.content.dev.mdn.mozit.cloud/uk/docs/Tools/Web_Console/Split_console)
 
-## vi
+SPLITME## vi
 
 * Total of 342 documents.
 * Moved 62 document.
@@ -9545,7 +9545,7 @@
 * [/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Sắp_xếp](https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/Sắp_xếp) → [/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/sort](https://unslugged.content.dev.mdn.mozit.cloud/vi/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 * [/vi/docs/Web/JavaScript/Reference/Global_Objects/loi](https://developer.mozilla.org/vi/docs/Web/JavaScript/Reference/Global_Objects/loi) → [/vi/docs/Web/JavaScript/Reference/Global_Objects/Error](https://unslugged.content.dev.mdn.mozit.cloud/vi/docs/Web/JavaScript/Reference/Global_Objects/Error)
 
-## zh-cn
+SPLITME## zh-cn
 
 * Total of 5511 documents.
 * Moved 589 document.
@@ -10149,7 +10149,7 @@
 * [/zh-cn/docs/XMLSerializer](https://developer.mozilla.org/zh-cn/docs/XMLSerializer) → [/zh-cn/docs/Web/API/XMLSerializer](https://unslugged.content.dev.mdn.mozit.cloud/zh-cn/docs/Web/API/XMLSerializer)
 * [/zh-cn/docs/使用Javascript和DOM_Interfaces来处理HTML](https://developer.mozilla.org/zh-cn/docs/使用Javascript和DOM_Interfaces来处理HTML) → [/zh-cn/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces](https://unslugged.content.dev.mdn.mozit.cloud/zh-cn/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces)
 
-## zh-tw
+SPLITME## zh-tw
 
 * Total of 1219 documents.
 * Moved 175 document.
